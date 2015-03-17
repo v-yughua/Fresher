@@ -1,5 +1,4 @@
 # Fresher
-Fresher Learning
  public GetActivityInfoResult GetLotteryResult(string OpenId, int activityId)
         {
             GetActivityInfoResult result = null;
