@@ -1,5 +1,4 @@
-# Fresher
- public GetActivityInfoResult GetLotteryResult(string OpenId, int activityId)
+public GetActivityInfoResult GetLotteryResult(string OpenId, int activityId)
         {
             GetActivityInfoResult result = null;
 
